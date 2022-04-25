@@ -56,9 +56,9 @@ The final analysis I wanted to do was to look at the Directors who make 'blockbu
 -   Look into the importance of sequels and movie franchises as it pertains to this data.
 
 ## In Depth Analysis
-If you would like to see more in depth analysis please see either the Jupyter Notebook or the presentation deck.
+If you would like to see more in depth analysis please see either the *[Jupyter Notebook](https://github.com/Jbruemmer/Movie-Studio-Analysis/blob/main/Movie%20Gross%20Jupyter%20Notebook.ipynb)* or the *[Slide Deck](https://github.com/Jbruemmer/Movie-Studio-Analysis/blob/main/Presentation%20Movie%20Studio%20PDF.pdf)*.
 
-If you would like to get in touch with the me please use:
+If you would like to get in contact you can message me on GitHub or:
 Email: Johnnybruemmer@gmail.com
 LinkedIn : [John Bruemmer | LinkedIn](https://www.linkedin.com/in/john-bruemmer-407a58a4/)
 
