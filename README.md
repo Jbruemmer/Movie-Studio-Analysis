@@ -22,11 +22,11 @@ One of the major trends in the film industry is the importance of the global box
 
 Additionally, the genres that make the highest total gross in theaters also generally have a higher percentage of their revenue come from international markets. 
 
- `![Average Gross for Genres](/Images/Average_Gross_For_Genres.png "Genres that are harder to translate make less Money")`.
+ `![Average Gross for Genres](/Images/Average_Gross_For_Genres.png)`.
 
 The final analysis I wanted to do was to look at the Directors who make 'blockbuster' movies (Gross over $100 million) and see if they shared anything in common. This graph lists the directors who make blockbuster films and whose movies are least reliant on theaters in the U.S. and Canada. 
 
- `![Director Bar Chart](/Images/Director_Bar_Chart.png "International Directors and Animation Directors dominate the top 10 in this category")`.
+ `![Director Bar Chart](Images/Director_Bar_Chart.png "International Directors and Animation Directors dominate the top 10 in this category")`.
 
 ## Recommendations 
 **Goal**: Prioritize revenue over other factors such as ROI or reviews.
@@ -64,12 +64,12 @@ LinkedIn : [John Bruemmer | LinkedIn](https://www.linkedin.com/in/john-bruemmer-
 
 ## Repository Structure
 ```
-├── images
+├── Images
 ├── .gitignore
 ├── README.md
+├── Movie-Box-Office-Analysis-PDF.pdf
+	-- PDF version of Jupyter Notebook
 ├── Movie-Box-Office-Analysis.ipynb
 	-- Jupyter Notebook used for analysis
-├──Movie-Box-Office-Analysis-PDF.pdf
-	-- PDF version of Jupyter Notebook
 └── Presentation-Movie-Studio-PDF.pdf
 ```
