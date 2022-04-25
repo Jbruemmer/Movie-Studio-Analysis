@@ -67,9 +67,7 @@ LinkedIn : [John Bruemmer | LinkedIn](https://www.linkedin.com/in/john-bruemmer-
 ├── Images
 ├── .gitignore
 ├── README.md
+├── Movie-Box-Office-Analysis-Jupyter-Notebook.ipynb
 ├── Movie-Box-Office-Analysis-PDF.pdf
-	-- PDF version of Jupyter Notebook
-├── Movie-Box-Office-Analysis.ipynb
-	-- Jupyter Notebook used for analysis
 └── Presentation-Movie-Studio-PDF.pdf
 ```
